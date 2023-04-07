@@ -1,6 +1,15 @@
 .container {
   width: 20%;
+  height: 200px;
   background-color: hsl(216, 12%, 54%);
+}
+
+.container h2,
+p {
+  width: 100%;
+  margin: auto;
+  padding-left: 5%;
+  padding-bottom: 5%;
 }
 /*move text over to center*/
 /*spacing between the numbers*/
