@@ -1,15 +1,22 @@
 .container {
   width: 30%;
   height: 300px;
-  background-color: hsl(216, 12%, 54%);
+  background-color: hsl(216, 4%, 26%);
 }
 
 .container h2,
 p {
-  width: 100%;
+  width: 90%;
   margin: auto;
   padding-left: 5%;
   padding-bottom: 5%;
+}
+h2 {
+  color: white;
+}
+p {
+  color: grey;
+  font-size: 15px;
 }
 button {
   width: 70%;
