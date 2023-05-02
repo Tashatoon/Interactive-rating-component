@@ -9,7 +9,7 @@ body {
   width: 750px;
   height: 600px;
   background-color: hsl(216, 4%, 26%);
-  border-radius: 30px;
+  border-radius: 50px;
 }
 
 .container h2,
@@ -43,12 +43,10 @@ ul {
   list-style: none;
   display: flex;
  justify-content: space-around;
- position: relative; left: -35px;
+ position: relative; left: -40px;
  font-size: 26px;
 }
 li {
-  width: 30px;
-  height: 30px;
  display: flex;
  justify-content: center;
 }
@@ -71,8 +69,8 @@ svg {
   
 }
 .circle2 li{
-  width: 45px;
-  height: 38px;
+  width: 55px;
+  height: 50px;
  background-color: hsl(210, 2%, 35%);
   border-radius: 50%;
   position: relative;
